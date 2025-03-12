@@ -4,6 +4,8 @@ Enable users to deposit, withdraw, lend, and borrow stablecoins using a standard
 ```
 Lend Stablecoin Frontend Integration enables users to lend and manage stablecoins through a seamless web interface, facilitating deposits, withdrawals, and balance tracking on the blockchain.
 
+### Getting Started
+- [x] Clone frontend from scaffold
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

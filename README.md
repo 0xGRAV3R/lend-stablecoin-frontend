@@ -8,7 +8,7 @@ Lend Stablecoin Frontend Integration enables users to lend and manage stablecoin
 - [x] Clone frontend from scaffold
 - [x] git clone https://github.com/solana-labs/dapp-scaffold.git lend-front-end
 - [x] yarn install
-
+- [x] yarn run dev
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
